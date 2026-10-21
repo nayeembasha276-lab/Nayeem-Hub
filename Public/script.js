@@ -57,6 +57,41 @@ const projects = [
     live: "https://fitness-monolith-9zc8.onrender.com/swagger-ui/index.html",
     image: "assets/fitness.png",
   },
+
+
+  {
+    name: "Nexus-Adaptive Sorting Intelligence Engine",
+    badge: "Full Stack Project",
+    description: "An adaptive sorting intelligence engine that analyzes dataset disorder and automatically selects a suitable sorting algorithm for efficient execution.",
+    technologies: [
+        "Java 21",
+        "Spring Boot",
+        "REST API",
+        "MySQL",
+        "JWT",
+        "JavaScript",
+        "Docker",
+        "Vercel"
+    ],
+    features: [
+        "Adaptive Sorting Algorithm Selection",
+        "Dataset Disorder Analysis",
+        "Sorting Algorithm Benchmarking",
+        "Execution Time Comparison",
+        "Comparisons and Swaps Tracking",
+        "JWT Authentication",
+        "Per-User Execution History",
+        "MySQL Database Integration",
+        "Dockerized Backend",
+        "Live Frontend Deployment"
+    ],
+    github: "https://github.com/nayeembasha276-lab/NEXUS-backend",
+    live: "https://nexus-frontend-steel-eight.vercel.app",
+    image: "assets/Nexus.png"
+},
+
+
+
 ];
 
 /* ============================================================
