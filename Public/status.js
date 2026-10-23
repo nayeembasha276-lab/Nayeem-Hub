@@ -17,4 +17,4 @@ const CURRENT_STATUS = "";
 ============================================================
 */
 
-const CURRENT_STATUS = "Building an E-Commerce project with Spring Boot";
+const CURRENT_STATUS ="CodeOrbit – AI-Powered Engineering Intelligence Platform";
